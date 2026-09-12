@@ -1,39 +1,69 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/luis-sandri/luis-sandri/main/assets/header.svg" width="100%" alt="Luís Sandri — Back-end Developer, Cloud and Applied AI" />
 
-# Luís Sandri
+  <br />
 
-**Back-end Developer · Software Engineering student at PUCPR · Cloud & Applied AI**
-
-[Portfolio](https://lsandri.com.br) · [LinkedIn](https://linkedin.com/in/luis-sandri) · [Projects](https://github.com/luis-sandri?tab=repositories)
-
+  <a href="https://lsandri.com.br">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/luis-sandri">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/luis-sandri?tab=repositories">Repositories</a>
 </div>
+
+<br />
 
 > I build practical software that connects back-end engineering, data, artificial intelligence and cloud. I care about clear architecture, useful products and continuous learning.
 
-## Focus
+## ✦ Current focus
 
-- Designing APIs and back-end services with Python, Django, FastAPI, Node.js and TypeScript.
-- Building applied AI solutions with Azure OpenAI, LangChain and data pipelines.
-- Creating cloud-ready applications with Docker, PostgreSQL, MongoDB, Redis, Azure and AWS.
-- Turning ideas into accessible, responsive interfaces with React, Next.js and TypeScript.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend &amp; applied AI</strong><br />
+      APIs, data pipelines, reliable services and useful AI integrations.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Cloud-ready products</strong><br />
+      Containerized applications, data stores and deployment-minded architecture.
+    </td>
+  </tr>
+</table>
 
-## Selected work
+## ⚙️ Tech stack
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [CampusTrack](https://github.com/luis-sandri/CampusTrack) | A campus mapping solution, recognized as the best project of my 3rd Software Engineering semester. | JavaScript · PHP · MySQL · Bootstrap |
-| [SPARC](https://github.com/luis-sandri/SPARC) | IoT telemetry and monitoring: hardware signals, anomaly alerts and a web dashboard. | ESP32 · C++ · JavaScript |
-| [Personal Blog](https://github.com/luis-sandri/personal-blog-react-api-google-github) | A full-stack content platform with authentication, moderation and a production deployment. | Next.js · TypeScript · Supabase · PostgreSQL |
-| [Portfolio](https://github.com/luis-sandri/Portfolio) | A responsive personal portfolio built around my projects and experiences. | React · TypeScript · Tailwind · Vercel |
+<details open>
+  <summary><strong>Back-end &amp; APIs</strong></summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ts,java&theme=dark" alt="Python, Django, FastAPI, Node.js, TypeScript and Java" />
+</details>
 
-## Technologies I work with
+<details open>
+  <summary><strong>Front-end</strong></summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&theme=dark" alt="React, Next.js, Tailwind CSS, HTML, CSS and JavaScript" />
+</details>
 
-`Python` · `Django` · `FastAPI` · `Node.js` · `TypeScript` · `Java` · `React` · `Next.js` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Azure` · `AWS`
+<details open>
+  <summary><strong>Data, cloud &amp; tooling</strong></summary>
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,azure,aws,git,github&theme=dark" alt="PostgreSQL, MongoDB, Redis, Docker, Azure, AWS, Git and GitHub" />
+</details>
 
-## Beyond code
+## ✦ Community &amp; teaching
 
-I am an **AWS Student Builder** and have contributed to the Software Engineering community at PUCPR through student representation, events and knowledge sharing. Outside software, my background in e-sports, YouTube/streaming and RPGs has shaped how I communicate, collaborate and create experiences for communities.
+| Role | Contribution |
+| --- | --- |
+| **AWS Student Builder** | Community, learning initiatives and knowledge sharing around cloud and AI. |
+| **Teaching assistant — Object-Oriented Programming** | Supporting students in core programming concepts, reasoning and implementation. |
+| **Teaching assistant — Web Development** | Helping students build foundations in web technologies and application development. |
+| **Teaching assistant — Database Architecture** | Supporting database modeling, structure and architectural thinking. |
 
-## Let’s connect
+## ✦ Beyond code
 
-If you would like to discuss an opportunity, project or idea, reach me through [my portfolio](https://lsandri.com.br#contact) or [LinkedIn](https://linkedin.com/in/luis-sandri).
+My background in **e-sports, YouTube/streaming and RPGs** has shaped how I communicate, collaborate and create experiences for communities — skills I bring into engineering teams and technical projects.
+
+<div align="center">
+  <sub>Open to conversations about opportunities, products and technology.</sub>
+  <br />
+  <a href="https://lsandri.com.br#contact">Get in touch through my portfolio →</a>
+</div>
